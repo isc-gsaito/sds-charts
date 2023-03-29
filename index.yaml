@@ -7,12 +7,12 @@ entries:
       intersystems/sds-title: My LTV Loader Using AWS Session Credentials
     apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-29T11:12:18.768947286-03:00"
+    created: "2023-03-29T17:46:09.37186778-03:00"
     description: A Helm chart for Kubernetes
-    digest: 583b7c083527bd0d3242fa13b293a6dd10552669ce2b1fe38903c96091d76ee6
+    digest: fb739d5385565d91ccd922b33ad52341775be8cb75ea25a7567efb876517c7df
     name: my-sds-ltvloader
     type: application
     urls:
     - https://isc-gsaito.github.io/sds-charts/my-sds-ltvloader-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-29T11:12:18.748867322-03:00"
+generated: "2023-03-29T17:46:09.324775653-03:00"
